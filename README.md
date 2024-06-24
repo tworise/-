@@ -1,4 +1,5 @@
 # TeamA_DokeyDokey_2024_Capstone Design
+방언 교정기 프로그램
 # Team Introdution
 이상승 - 딥페이크 및 딥보이스 모델 개발자 
    
