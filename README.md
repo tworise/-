@@ -28,3 +28,5 @@ Voice Convertor 모델을 학습하기 위해 최소 10분 가량의 내 목소�
 
 # Reference
 https://github.com/IAHispano/Applio
+https://www.ncloud.com/product/aiService/clovaVoice
+
