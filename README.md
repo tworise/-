@@ -1,13 +1,13 @@
 # TeamA_DokeyDokey_2024_Capstone Design
 방언 교정기 프로그램
 # Team Introdution
-이상승 - 딥페이크 및 딥보이스 모델 개발자 
+이상승 - 내 목소리 딥보이스 모델 개발자, Web Designer
    
-권주연 - 딥보이스 모델 개발자
+권주연 - 아나운서 딥보이스 모델 개발자, Web Designer
 
-한은영 - LLM, Web Design, Transform 개발자
+한은영 - LLM, Transform 개발자, Web Designer
 
-김지윤 - 방언, 표준어 매핑, 데이터 수집 및 전처리
+김지윤 - 방언, 표준어 매핑, 데이터 수집 및 전처리, Web Designer
 
 # 개발 목적
 방언 사용자들이 표준어를 자연스럽고 정확하게 구사하도록 돕는 과정
